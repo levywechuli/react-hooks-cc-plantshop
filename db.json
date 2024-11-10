@@ -4,13 +4,17 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "instock": false,
+      "soldOut": true
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "instock": false,
+      "soldOut": false
     },
     {
       "id": 3,
@@ -28,7 +32,8 @@
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "soldOut": true
     },
     {
       "id": 6,
